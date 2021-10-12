@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/4eea7157-ccbc-4140-addb-8034396c6a2e.svg)](https://wakatime.com/@4eea7157-ccbc-4140-addb-8034396c6a2e)
+[![twitter](https://img.shields.io/twitter/follow/tnhnclskn?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/tnhnclskn)
+
+- [🖥️ Monitor Service](https://monitorservice.net)
 <!--
 **tnhnclskn/tnhnclskn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
