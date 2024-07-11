@@ -1,6 +1,6 @@
 **👨‍💻 Tunahan Çalışkan - Backend Developer**
 
-Backend Developer with extensive experience in PHP (Laravel), JavaScript (ReactJS), and server management (GNU/Linux, Docker). Currently working at Tatil.com, responsible for developing backend services and ensuring system reliability. Proven track record with companies like Dresden Vision and Kobikom Telecommunication. Pursuing a degree in Software Engineering at International Dublin University. Passionate about leveraging technology to solve complex problems.
+Backend Developer with extensive experience in PHP (Laravel), JavaScript (ReactJS), and server management (GNU/Linux, Docker). Currently working at Tatil.com, responsible for developing backend services and ensuring system reliability. Pursuing a degree in Software Engineering at International Dublin University. Passionate about leveraging technology to solve complex problems.
 
 **Projects:**
 1. 📊 [Monitor Service](https://monitorservice.net/): Uptime monitoring service ensuring website and server availability.
