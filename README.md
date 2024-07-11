@@ -1,20 +1,16 @@
-### Hi there 👋
+**👨‍💻 Tunahan Çalışkan - Backend Developer**
 
-[![wakatime](https://wakatime.com/badge/user/4eea7157-ccbc-4140-addb-8034396c6a2e.svg)](https://wakatime.com/@4eea7157-ccbc-4140-addb-8034396c6a2e)
-[![twitter](https://img.shields.io/twitter/follow/tnhnclskn?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/tnhnclskn)
+Backend Developer with extensive experience in PHP (Laravel), JavaScript (ReactJS), and server management (GNU/Linux, Docker). Currently working at Tatil.com, responsible for developing backend services and ensuring system reliability. Proven track record with companies like Dresden Vision and Kobikom Telecommunication. Pursuing a degree in Software Engineering at International Dublin University. Passionate about leveraging technology to solve complex problems.
 
-- [🖥️ Monitor Service](https://monitorservice.net)
-<!--
-**tnhnclskn/tnhnclskn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Projects:**
+1. 📊 [Monitor Service](https://monitorservice.net/): Uptime monitoring service ensuring website and server availability.
+2. 🐳 [Docker Engine PHP Wrapper](https://github.com/tnhnclskn/docker-engine-php): PHP wrapper for Docker Engine API.
+3. 🎬 [YIFY Transmission Downloader](https://github.com/tnhnclskn/yify-transmission-web): Web app for downloading movies from YIFY using Transmission.
+4. 💳 [PayTR Integration](https://github.com/tnhnclskn/paytr-php): PHP client for integrating with PayTR payment gateway.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact:**
+- 📧 Email: [mail@tunahancaliskan.com](mailto:mail@tunahancaliskan.com)
+- 🌐 Website: [tunahancaliskan.com.tr](https://tunahancaliskan.com.tr)
+- 💻 GitHub: [tnhnclskn](https://github.com/tnhnclskn)
+- 🔗 LinkedIn: [tunahancaliskan](https://linkedin.com/in/tunahancaliskan)
+- 📱 Telegram: [tnhnclskn](https://t.me/tnhnclskn)
